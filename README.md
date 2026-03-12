@@ -7,11 +7,11 @@
 <h2 align="center"> 🧠 Sobre mim </h2>
 
 <div align="left">
-  <p>
+  <h4>
     🎓 Graduanda em Análise e Desenvolvimento de Sistemas
     <br>💻 Estudando desenvolvimento de software e boas práticas de programação
     <br>🎯 Explorando back-end, APIs, banco de dados e integração de sistemas
-  </p>
+  </h4>
 </div>
 
 <hr>
@@ -101,9 +101,11 @@
 
 <h2 align="center">📊 Estatísticas do GitHub </h2>
 <br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehffv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehffv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rehffv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehffv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <hr>
