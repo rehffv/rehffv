@@ -9,7 +9,7 @@
 <div align="left">
 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
 <br>💻 Estudando desenvolvimento de software e boas práticas de programação
-<br>🎯 Explorando back-end, APIs, bancos de dados e integração de sistemas
+<br>🎯 Explorando back-end, APIs, banco de dados e integração de sistemas
 </div>
 
 <hr>
