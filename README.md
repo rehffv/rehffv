@@ -4,7 +4,7 @@
 
 <br>
 
-<h1 align="center"> 🧠 Sobre mim </h1>
+<h2 align="center"> 🧠 Sobre mim </h2>
 
 <div align="left">
 🎓 Graduanda em Análise e Desenvolvimento de Sistemas
@@ -16,7 +16,7 @@
 
 <br>
 
-<h1 align="center">🚀 Tecnologias</h1>
+<h2 align="center">🚀 Tecnologias</h2>
 
 <div align="center">
 
@@ -85,7 +85,6 @@
 <img title="AWS" src="https://skillicons.dev/icons?i=aws"/>
 <img title="Azure" src="https://skillicons.dev/icons?i=azure"/>
 <img title="Figma" src="https://skillicons.dev/icons?i=figma"/>
-<img title="Arduino" src="https://skillicons.dev/icons?i=arduino"/>
 
 </td>
 
@@ -98,7 +97,7 @@
 <hr>
 <br>
 
-<h1 align="center">📊 Estatísticas do GitHub </h1>
+<h2 align="center">📊 Estatísticas do GitHub </h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rehffv&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -108,7 +107,7 @@
 <hr>
 <br>
   
-<h1 align="center">🐍 Contribuições</h1>
+<h2 align="center">🐍 Minhas Contribuições</h2>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehffv/rehffv/output/github-contribution-grid-snake-dark.svg">
@@ -119,7 +118,7 @@
 <hr>
 <br>
 
-<h1 align="center">💬 Contato</h1>
+<h2 align="center">💬 Contato</h2>
 
 <div align="center">
 
