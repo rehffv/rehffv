@@ -7,9 +7,11 @@
 <h2 align="center"> 🧠 Sobre mim </h2>
 
 <div align="left">
-🎓 Graduanda em Análise e Desenvolvimento de Sistemas
-<br>💻 Estudando desenvolvimento de software e boas práticas de programação
-<br>🎯 Explorando back-end, APIs, banco de dados e integração de sistemas
+  <p>
+    🎓 Graduanda em Análise e Desenvolvimento de Sistemas
+    <br>💻 Estudando desenvolvimento de software e boas práticas de programação
+    <br>🎯 Explorando back-end, APIs, banco de dados e integração de sistemas
+  </p>
 </div>
 
 <hr>
@@ -112,7 +114,7 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehffv/rehffv/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehffv/rehffv/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rehffv/rehffv/output/github-contribution-grid-snake.svg">
+  <img title="🐍" align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rehffv/rehffv/output/github-contribution-grid-snake.svg">
 </picture>
 
 <hr>
