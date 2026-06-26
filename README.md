@@ -70,7 +70,7 @@
 
 <img title="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"/>
 <img title="MySQL" src="https://skillicons.dev/icons?i=mysql"/>
-<img title="PostSQL" src="https://skillicons.dev/icons?i=postsql"/>
+<img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql"/>
 
 </td>
 
